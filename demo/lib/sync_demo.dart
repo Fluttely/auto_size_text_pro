@@ -1,4 +1,4 @@
-import 'package:auto_size_text/auto_size_text.dart';
+import 'package:auto_size_text_pro/auto_size_text_pro.dart';
 import 'package:flutter/material.dart';
 
 import 'text_card.dart';

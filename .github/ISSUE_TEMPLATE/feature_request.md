@@ -18,4 +18,4 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Version**
  - Flutter version: [e.g. 1.5.4]
- - auto_size_text version: [e.g. 1.2.1]
+ - auto_size_text_pro version: [e.g. 1.2.1]

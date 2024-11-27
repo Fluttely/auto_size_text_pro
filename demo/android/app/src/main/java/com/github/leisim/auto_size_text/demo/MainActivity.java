@@ -1,4 +1,4 @@
-package com.github.leisim.auto_size_text.demo;
+package com.github.leisim.auto_size_text_pro.demo;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

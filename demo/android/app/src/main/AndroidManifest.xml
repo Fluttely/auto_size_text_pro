@@ -1,6 +1,6 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.leisim.auto_size_text.demo">
+    package="com.github.leisim.auto_size_text_pro.demo">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 

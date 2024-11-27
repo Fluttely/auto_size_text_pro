@@ -15,4 +15,4 @@ Provide a few simple lines of code to show your problem.
 
 **Version**
  - Flutter version: [e.g. 1.5.4]
- - auto_size_text version: [e.g. 1.2.1]
+ - auto_size_text_pro version: [e.g. 1.2.1]

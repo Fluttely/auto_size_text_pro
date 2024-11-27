@@ -1,13 +1,13 @@
 
-# ![](https://raw.githubusercontent.com/leisim/auto_size_text/master/.github/art/logo.svg?sanitize=true)
+# ![](https://raw.githubusercontent.com/leisim/auto_size_text_pro/master/.github/art/logo.svg?sanitize=true)
 
-  [![codecov](https://codecov.io/gh/leisim/auto_size_text/branch/master/graph/badge.svg)](https://codecov.io/gh/leisim/auto_size_text) [![Version](https://img.shields.io/pub/v/auto_size_text_pro.svg)](https://pub.dev/packages/auto_size_text) ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)
+  [![codecov](https://codecov.io/gh/leisim/auto_size_text_pro/branch/master/graph/badge.svg)](https://codecov.io/gh/leisim/auto_size_text_pro) [![Version](https://img.shields.io/pub/v/auto_size_text_pro.svg)](https://pub.dev/packages/auto_size_text_pro) ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)
 
   
 
 A Flutter widget that automatically resizes text to fit perfectly within its bounds.
 
-This package is an extended and maintained version of the original **auto_size_text** library, created by [Simon Leier](https://github.com/leisim). The **auto_size_text_pro** package builds upon the foundation of its predecessor with enhancements, bug fixes, and support for modern Flutter versions.
+This package is an extended and maintained version of the original **auto_size_text_pro** library, created by [Simon Leier](https://github.com/leisim). The **auto_size_text_pro** package builds upon the foundation of its predecessor with enhancements, bug fixes, and support for modern Flutter versions.
 
   
 
@@ -17,7 +17,7 @@ This package is an extended and maintained version of the original **auto_size_t
 
 ### Resources:
 
-- [Documentation](https://pub.dev/documentation/auto_size_text/latest/auto_size_text/AutoSizeText-class.html)
+- [Documentation](https://pub.dev/documentation/auto_size_text_pro/latest/auto_size_text_pro/AutoSizeText-class.html)
 
 - [Pub Package](https://pub.dev/packages/auto_size_text_pro)
 
@@ -32,7 +32,7 @@ Also check out the blazing fast key-value store [hive](https://github.com/leisim
   
   
 
-![](https://raw.githubusercontent.com/leisim/auto_size_text/master/.github/art/maxlines.gif)
+![](https://raw.githubusercontent.com/leisim/auto_size_text_pro/master/.github/art/maxlines.gif)
 
   
 
@@ -162,7 +162,7 @@ overflow:  TextOverflow.ellipsis,
 
   
 
-![](https://raw.githubusercontent.com/leisim/auto_size_text/master/.github/art/minfontsize.gif)
+![](https://raw.githubusercontent.com/leisim/auto_size_text_pro/master/.github/art/minfontsize.gif)
 
   
   
@@ -215,7 +215,7 @@ group: myGroup,
 
   
 
-![](https://raw.githubusercontent.com/leisim/auto_size_text/master/.github/art/group.gif)
+![](https://raw.githubusercontent.com/leisim/auto_size_text_pro/master/.github/art/group.gif)
 
   
   
@@ -252,7 +252,7 @@ overflow:  TextOverflow.ellipsis,
 
   
 
-![](https://raw.githubusercontent.com/leisim/auto_size_text/master/.github/art/stepgranularity.gif)
+![](https://raw.githubusercontent.com/leisim/auto_size_text_pro/master/.github/art/stepgranularity.gif)
 
   
   
@@ -283,7 +283,7 @@ maxLines:  4,
 
   
 
-![](https://raw.githubusercontent.com/leisim/auto_size_text/master/.github/art/presetfontsizes.gif)
+![](https://raw.githubusercontent.com/leisim/auto_size_text_pro/master/.github/art/presetfontsizes.gif)
 
   
   
@@ -312,7 +312,7 @@ overflowReplacement:  Text('Sorry String too long'),
 
   
 
-![](https://raw.githubusercontent.com/leisim/auto_size_text/master/.github/art/overflowreplacement.gif)
+![](https://raw.githubusercontent.com/leisim/auto_size_text_pro/master/.github/art/overflowreplacement.gif)
 
   
 
@@ -380,7 +380,7 @@ But it does not mean that all `TextSpan`s have at least font size `5`.
 
   
 
-![](https://raw.githubusercontent.com/leisim/auto_size_text/master/.github/art/maxlines_rich.gif)
+![](https://raw.githubusercontent.com/leisim/auto_size_text_pro/master/.github/art/maxlines_rich.gif)
 
   
   
@@ -521,7 +521,7 @@ maxLines:  1,
 
   
 
-Further explanation can be found [here](https://stackoverflow.com/a/53908204). If you still have problems, please [open an issue](https://github.com/leisim/auto_size_text/issues/new).
+Further explanation can be found [here](https://stackoverflow.com/a/53908204). If you still have problems, please [open an issue](https://github.com/leisim/auto_size_text_pro/issues/new).
 
   
   
