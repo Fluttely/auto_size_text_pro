@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -45,6 +44,7 @@ Future prepareTests(WidgetTester tester) async {
     return;
   }
 
+  // tester.binding.addTime(Duration(seconds: 10));
   prepared = true;
   final fontData = File('test/assets/Roboto-Regular.ttf')
       .readAsBytes()

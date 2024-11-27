@@ -1,3 +1,6 @@
+## 3.0.1
+- Remove AutoSizeGroupBuilder widget and update related files; add textBuilder option to AutoSizeText
+
 ## 3.0.0
 - Upgraded to null safety
 
