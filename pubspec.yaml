@@ -3,7 +3,6 @@ description: Flutter widget that automatically resizes text to fit perfectly wit
 version: 3.0.1
 # authors:
 #   - Kevin Kobori <kevinyujikobori@gmail.com>
-#   - Filip Grzywok <f.grzywok@gmail.com>
 homepage: https://fluttely.com
 repository: https://github.com/Fluttely/auto_size_text_pro
 
